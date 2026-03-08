@@ -167,23 +167,6 @@ const makadunyiswe = {
 - 🪞 **Led** weekly retrospectives and team reflection sessions
 - 📣 **Bridged** communication between developers and stakeholders
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&border_radius=12&hide_border=false" height="165"/>
-
-<br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=false&radius=12)
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
